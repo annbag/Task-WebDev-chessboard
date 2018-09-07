@@ -21,3 +21,17 @@ h1{
 	font-family: arial;
 	text-align: center;
 }
+.board2 {	
+	margin: 50px auto;
+	border: 2px solid black;
+	width: 400px;	
+	font-size: 0;
+}
+.board2 div {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+}
+.board2 div:nth-child(even) {
+	background-color: black;
+}
