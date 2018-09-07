@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.board1 {	
+	margin: 50px auto 0;
+	border: 2px solid black;
+	width: 400px;	
+	overflow: hidden;
+}
+.board1 div {
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+.board1 div:nth-child(even) {
+	background-color: black;
+}
+h1{
+	margin-top: 50px;
+	font-family: arial;
+	text-align: center;
+}
