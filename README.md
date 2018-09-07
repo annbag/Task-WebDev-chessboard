@@ -1,5 +1,5 @@
 https://annbag.github.io/Task-WebDev-chessboard/
 
 Task to create a chessboard. Used properties:
--floa;
+-float;
 -display: inline-block.
